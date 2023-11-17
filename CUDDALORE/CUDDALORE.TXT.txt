@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> CUDDALORE</title>
+        <style>
+            h1{
+                text-align: center;
+                font-size: 35px;
+                font-family:'Times New Roman';
+                font-size: ;
+            }
+            body{
+                background-color:papyawhip;
+            }
+            img
+            {
+                padding:15px ;
+                width: 400px;
+                height: 300px;
+                margin-left: 500px;
+                border-radius: 15px 15px 15px 15px;
+                border-radius: 15px;
+                border-top-left-radius: 10px;
+                border-top-right-radius: 20px;
+                border-bottom-right-radius: 30px;
+                border-bottom-left-radius: 40px;
+                /* shorthand */
+                border-radius: 10px 20px 30px 40px;
+                border-radius: 60px;
+            }
+            blockquote
+            {
+                text-align: center;
+                font-family:'Monospace';
+                font-size: 25px;
+            }
+            iframe
+            {
+                align-items: center;
+                margin-left: 450px;
+            }
+            li
+            {
+                font-size: 15px;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-left: 25px;
+            }
+            b
+            {
+                font-size: 25px;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-left: 35px;
+            }
+            h2
+            {
+                font-size: 25px;
+                margin-left: 650px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1>
+            CUDDALORE
+        </h1>
+        <blockquote>
+            Cuddalore is a coastal city located in the Indian state of Tamil Nadu. <BR>
+			Cuddalore, known as the "Gateway to South India," is a charming coastal city located in the southern state of Tamil Nadu<BR>
+			It has a rich history and is known for its cultural heritage. The city is blessed with a long coastline, and one of its <BR>
+			prominent attractions is the Silver Beach.Here are some of the famous places to visit in Cuddalore.
+        </blockquote>
+        <h3>
+            <b>Places you can visit in CUDDALORE:</b></h3>
+                <li>Pataleeshwarar Temple</li>
+                <li>Silver Beach</li>
+                <li>Devanatha Swamy Temple</li>
+                <li>Pichavaram Mangrove Forest</li>
+				<LI>Fort St. David</LI>
+				<LI>The Garden City Amusement Park</LI>
+				<LI>Thiruvandipuram Temple</LI>
+             
+        
+        <img src="1.jpg">
+        <br>
+        <br>
+        <h2>Pataleeshwarar Temple</h2>
+        <blockquote>
+		   This ancient temple dedicated to Lord Shiva is a major pilgrimage site in Cuddalore. <br>
+		   It is known for its magnificent architecture and intricate carvings.It is visited by many tourists alike<br> 
+            
+        </blockquote>
+        <br>
+        <img src="2.jpg">
+        <br>
+        <h2>Silver Beach</h2>
+        <blockquote>
+		 Located on the coastline of Cuddalore, Silver Beach is a popular tourist spot. <br>
+		 It offers beautiful views of the Bay of Bengal and is a great place for leisurely walks and picnics.
+            
+        </blockquote>
+        <br>
+        <img src="3.jpg">
+        <br>
+        <h2>Devanatha Swamy Temple</h2>
+        <blockquote>
+		Situated in Thiruvanthipuram, a village near Cuddalore, this temple is dedicated to <br>
+		Lord Vishnu. It is known for its impressive architecture and hosts various religious festivals throughout the year.
+            
+        </blockquote>
+        <br>
+        <img src="4.jpg">
+        <br>
+        <h2>Pichavaram Mangrove Forest</h2>
+        <blockquote>
+		 About 16 kilometers from Cuddalore, Pichavaram is home to one of the largest mangrove forests<br>
+		 in the world. You can explore the forest by taking a boat ride through the network of canals,<br>
+		 enjoying the serene and picturesque surroundings.
+            
+        </blockquote>
+        <br>
+        <img src="5.jpg">
+        <br>
+		<h2>Fort St. David</h2>
+        <blockquote>
+		 Located in nearby Tharangambadi (formerly known as Tranquebar), Fort St. David is a<br>
+		 historic fort built by the British in the 17th century. It is a well-preserved monument that<br>
+		 showcases the colonial architecture of the time.
+            
+        </blockquote>
+        <br>
+        <img src="6.jpg">
+        <br>
+		<h2>The Garden City Amusement Park</h2>
+        <blockquote>
+		If you're looking for some fun and entertainment, <br>
+		visit the Garden City Amusement Park in Cuddalore. It offers a range of thrilling rides, water slides,<br>
+		and recreational activities for people of all ages.
+            
+        </blockquote>
+        <br>
+        <img src="7.jpg">
+        <br>
+		<h2>Thiruvandipuram Temple</h2>
+		
+		 <blockquote>
+		 Situated in the village of Thiruvandipuram, this temple is dedicated<br>
+		 to Lord Vishnu. It is known for its beautiful architecture and hosts various religious festivals,<br>
+		 attracting devotees from far and wide.
+            
+        </blockquote>
+        <br>
+        <img src="8.jpg">
+        <br>
+		
+        
+
+
+    </body>
+</html>
